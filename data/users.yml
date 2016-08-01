@@ -1,0 +1,21 @@
+- name: Seb
+  location: Paris
+  name: Seb's home
+  description: Charming room with patio
+  image: card-paris.jpg
+  avatar: seb.jpg
+
+- name: Anne
+  location: Brussels
+  name: Anne's home
+  description: Lovely house
+  image: card-brussels.jpeg
+  avatar: anne.jpg
+
+- name: Romain
+  location: London
+  name: Romain's house
+  description: Nice flat in Piccadilly
+  image: card-london.jpeg
+  avatar: romain.jpg
+
